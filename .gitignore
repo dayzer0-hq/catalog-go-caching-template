@@ -1,0 +1,5 @@
+catalog-go-caching-template
+*.exe
+*.test
+*.out
+.env
